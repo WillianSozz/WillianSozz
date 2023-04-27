@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World!!! 👋
+Muito prazer me chamo Willian Soares e sou um programador Junior, aqui mostrarei alguns projetos meus para um maior conhecimento das minhas habilidades profissionais
+
+Projeto em python
+Recibo de Loveny Loveseats:
+https://www.codecademy.com/workspaces/644af357c44551cadbbc9405
 
 <!--
 **WillianSozz/WillianSozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
