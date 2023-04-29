@@ -1,5 +1,9 @@
 ### Hello World!!! 👋
-Muito prazer me chamo Willian Soares e sou um programador Junior, aqui mostrarei alguns projetos meus para um maior conhecimento das minhas habilidades profissionais
+Muito prazer me chamo Willian Soares e sou um programador Junior, aqui mostrarei alguns projetos meus para um maior conhecimento das minhas habilidades profissionais:
+
+Projeto apenas em HTML
+Fashion Blog:
+https://www.codecademy.com/workspaces/644d5725e1a0c2d737893057
 
 Projeto em python
 Recibo de Loveny Loveseats:
