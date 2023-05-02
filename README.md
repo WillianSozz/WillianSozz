@@ -1,16 +1,16 @@
 ### Hello World!!! 👋
 Muito prazer me chamo Willian Soares e sou um programador Junior, aqui mostrarei alguns projetos meus para um maior conhecimento das minhas habilidades profissionais:
 
-<!-- Projeto em HTML e CSS -->
-<!-- Panfleto do Festival Anual do Vinho da Família Aguillar -->
+<h3>Projeto em HTML e CSS</h3>
+Panfleto do Festival Anual do Vinho da Família Aguillar
 https://www.codecademy.com/workspaces/64506e78e1a0c2d7378b226d
 
-<!-- Projeto apenas em HTML -->
-<!-- Fashion Blog: -->
+Projeto apenas em HTML
+Fashion Blog:
 https://www.codecademy.com/workspaces/644d5725e1a0c2d737893057
 
-<!-- Projeto em python -->
-<!-- Recibo de Loveny Loveseats: -->
+Projeto em python
+Recibo de Loveny Loveseats:
 https://www.codecademy.com/workspaces/644af357c44551cadbbc9405
 
 <!--
