@@ -2,7 +2,7 @@
 <h3>Muito prazer me chamo Willian Soares e sou um programador Junior, aqui mostrarei alguns projetos meus para um maior conhecimento das minhas habilidades profissionais:</h3>
 
 <h3>Projeto em HTML e CSS</h3>
-Panfleto do Festival Anual do Vinho da Família Aguillar
+Panfleto do Festival Anual do Vinho da Família Aguillar:
 https://www.codecademy.com/workspaces/64506e78e1a0c2d7378b226d
 
 <h3>Projeto apenas em HTML</h3>
