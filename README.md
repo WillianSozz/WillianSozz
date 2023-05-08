@@ -19,6 +19,14 @@
 </h3>
 
 <h3>Projeto em HTML e CSS</h3>
+Site de Receitas Saudáveis
+https://www.codecademy.com/workspaces/64592582191912900d6c98fd
+
+<h3>Projeto em HTML e CSS</h3>
+Olivia Woodruff Portfólio:
+https://www.codecademy.com/workspaces/64592517191912900d6c9877
+
+<h3>Projeto em HTML e CSS</h3>
 Panfleto do Festival Anual do Vinho da Família Aguillar:
 https://www.codecademy.com/workspaces/64506e78e1a0c2d7378b226d
 
