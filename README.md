@@ -1,4 +1,5 @@
 <h1>### Hello World!!! 👋</h1>
+
 <h3>Muito prazer me chamo Willian Soares
   <ul>
     <li>Tenho 23 anos</li>
@@ -8,6 +9,10 @@
     <li>Email: williansozz.profissional@gmail.com</li>
     <li>Moro em Minas Gerais, Brasil</li>
   </ul>
+</h3>
+
+<h3>
+  Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:
 </h3>
 
 <h3>Projeto em HTML e CSS</h3>
