@@ -1,5 +1,14 @@
 <h1>### Hello World!!! 👋</h1>
-<h3>Muito prazer me chamo Willian Soares e sou um programador Junior, aqui mostrarei alguns projetos meus para um maior conhecimento das minhas habilidades profissionais:</h3>
+<h3>Muito prazer me chamo Willian Soares
+  <ul>
+    <li>Tenho 23 anos</li>
+    <li>Faço ADS(Análise e Desenvolvimento de Sistemas) na Unicesumar</li>
+    <li>Aprendo linguagens de programação na Codecademy</li>
+    <li>Informações de contato: (37)998096535</li>
+    <li>Email: williansozz.profissional@gmail.com</li>
+    <li>Moro em Minas Gerais, Brasil</li>
+  </ul>
+</h3>
 
 <h3>Projeto em HTML e CSS</h3>
 Panfleto do Festival Anual do Vinho da Família Aguillar:
