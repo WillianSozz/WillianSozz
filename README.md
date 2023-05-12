@@ -19,6 +19,10 @@
 </h3>
 
 <h3>Projeto em HTML e CSS</h3>
+The box Model: Davie's Burguer:
+https://www.codecademy.com/workspaces/645db14e4de8ef9ea073c7f9
+
+<h3>Projeto em HTML e CSS</h3>
 Site de Receitas Saudáveis
 https://www.codecademy.com/workspaces/64592582191912900d6c98fd
 
