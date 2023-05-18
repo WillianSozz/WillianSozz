@@ -21,33 +21,6 @@
 <h3>Projeto Copiar Website (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_copia_Codecademy_1/
 
-<h3>Projeto em HTML e CSS</h3>
-Website(capa) da empersa Broadway:
-https://www.codecademy.com/workspaces/64629680c44551cadbccdbf9
-
-<h3>Projeto em HTML e CSS</h3>
-The box Model: Davie's Burguer:
-https://www.codecademy.com/workspaces/645db14e4de8ef9ea073c7f9
-
-<h3>Projeto em HTML e CSS</h3>
-Site de Receitas Saudáveis
-https://www.codecademy.com/workspaces/64592582191912900d6c98fd
-
-<h3>Projeto em HTML e CSS</h3>
-Olivia Woodruff Portfólio:
-https://www.codecademy.com/workspaces/64592517191912900d6c9877
-
-<h3>Projeto em HTML e CSS</h3>
-Panfleto do Festival Anual do Vinho da Família Aguillar:
-https://www.codecademy.com/workspaces/64506e78e1a0c2d7378b226d
-
-<h3>Projeto apenas em HTML</h3>
-Fashion Blog:
-https://www.codecademy.com/workspaces/644d5725e1a0c2d737893057
-
-<h3>Projeto em python</h3>
-Recibo de Loveny Loveseats:
-https://www.codecademy.com/workspaces/644af357c44551cadbbc9405
 
 <!--
 **WillianSozz/WillianSozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
