@@ -21,6 +21,8 @@
 <h3>Projeto Copiar Website (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_copia_Codecademy_1/
 
+<h3>Projeto básico portifólio (exercício Codecademy)</h3>
+https://williansozz.github.io/Portifolio_basico_codecademy_2/
 
 <!--
 **WillianSozz/WillianSozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
