@@ -18,6 +18,9 @@
   Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:
 </h3>
 
+<h3>Página sobre encomenda de hambúrguer (exercício Codecademy)</h3>
+https://williansozz.github.io/Site_hamburguer_Codecademy_4/
+
 <h3>Projeto capa de site de dev. (exercício Codecademy)</h3>
 https://williansozz.github.io/capa_curso_codenamy_3/
 
