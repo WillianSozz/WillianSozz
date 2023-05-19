@@ -1,19 +1,26 @@
-<h1>### Hello World!!! 👋</h1>
-<link href="./index.css" type="text/css" rel="stylesheet">
-<h3>Muito prazer me chamo Willian Soares
-  <p>
- 
+<h1 align="center">Olá 👋, eu sou Willian Soares</h1>
+<h3 align="center">Estudo focado em Engenheiro Front-end</h3>
+
+- 🔭 Atualmente faço faculdade de Ads(Analise e Desenvolvimento de Sistemas) [Faculdade Unicesumar](https://studeo.unicesumar.edu.br/#!/access/login)
+
+- 🌱 Tenho outros cursos como **Word, Excel, Digitação, Windows (todos básicos)**
+
+- 👯 Estou cursando programação na área de engenharia Front-end [Curso Codecademy](https://www.codecademy.com/learn)
+
+- 🤝 Também curso inglês [Curso Wizard](https://me.wizard.com.br/)
+
+- 👨‍💻 Meu linkedln é [https://www.linkedin.com/in/willian-soares-da-silva-a71b65272/](https://www.linkedin.com/in/willian-soares-da-silva-a71b65272/)
+
+- 💬 Telefone de contato **37998096535**
+
+- 📫 Meu e-mail é **williansozz.profissional@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-  <ul>
-    <li>Tenho 23 anos</li>
-    <li>Faço ADS(Análise e Desenvolvimento de Sistemas) na Unicesumar</li>
-    <li>Aprendo linguagens de programação na Codecademy</li>
-    <li>Cursando Inglês na Wizard</li>
-    <li>Informações de contato: (37)998096535</li>
-    <li>Email: williansozz.profissional@gmail.com</li>
-    <li>Moro em Minas Gerais, Brasil</li>
-  </ul>
-</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3>
 Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:
