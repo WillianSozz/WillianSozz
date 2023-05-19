@@ -8,6 +8,7 @@
     <li>Tenho 23 anos</li>
     <li>Faço ADS(Análise e Desenvolvimento de Sistemas) na Unicesumar</li>
     <li>Aprendo linguagens de programação na Codecademy</li>
+    <li>Cursando Inglês na Wizard</li>
     <li>Informações de contato: (37)998096535</li>
     <li>Email: williansozz.profissional@gmail.com</li>
     <li>Moro em Minas Gerais, Brasil</li>
