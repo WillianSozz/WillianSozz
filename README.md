@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-  Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:
+Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:
 </h3>
 
 <h3>Página sobre encomenda de hambúrguer (exercício Codecademy)</h3>
@@ -23,6 +23,9 @@ https://williansozz.github.io/Site_hamburguer_Codecademy_4/
 
 <h3>Projeto capa de site de dev. (exercício Codecademy)</h3>
 https://williansozz.github.io/capa_curso_codenamy_3/
+
+<h3>Página de receita (exercício Codecademy)</h3>
+https://williansozz.github.io/Pagina_de_receitas_Codecademy_5/
 
 <h3>Projeto Copiar Website (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_copia_Codecademy_1/
