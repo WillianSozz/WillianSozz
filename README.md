@@ -41,6 +41,8 @@ https://williansozz.github.io/Site_copia_Codecademy_1/
 <h3>Projeto básico portifólio (exercício Codecademy)</h3>
 https://williansozz.github.io/Portifolio_basico_codecademy_2/
 
+<img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+
 <!--
 **WillianSozz/WillianSozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
