@@ -33,7 +33,7 @@ https://williansozz.github.io/Typograpy_Codecademy_6/
 <h3>Projeto capa de site de dev. (exercício Codecademy)</h3>
 https://williansozz.github.io/capa_curso_codenamy_3/
 
-<h3>Projeto monitorado da Codecademy, Loja de tintas</h3>
+<h3>Projeto loja de tintas (exercício Codecademy)</h3>
 https://www.codecademy.com/workspaces/6475f7f4b92721d3a7a62a0b
 
 <h3>Página de receita (exercício Codecademy)</h3>
