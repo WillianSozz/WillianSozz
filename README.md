@@ -48,7 +48,7 @@ https://williansozz.github.io/Portifolio_basico_codecademy_2/
 
 💬<h2>Algumas habilidades separadas do projeto:</h2>
 
-<h3>Arredondar imagens exemplificado em CV</h3>
+<h3>HTML, CSS: Arredondar imagens exemplificado em CV</h3>
 https://williansozz.github.io/Imagem_redonda_Codecademy_7/
 
 <p>  </p>
