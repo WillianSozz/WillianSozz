@@ -45,6 +45,9 @@ https://williansozz.github.io/Site_copia_Codecademy_1/
 <h3>Projeto básico portifólio (exercício Codecademy)</h3>
 https://williansozz.github.io/Portifolio_basico_codecademy_2/
 
+<h3>Liçao de arredondar imagens exemplificado em CV</h3>
+https://williansozz.github.io/Imagem_redonda_Codecademy_7/
+
 <p>  </p>
 <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 
