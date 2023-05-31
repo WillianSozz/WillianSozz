@@ -24,8 +24,11 @@
 
 💬<h2>Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:</h2>
 
-.<h3>Página sobre encomenda de hambúrguer (exercício Codecademy)</h3>
+.<h3>Página sobre dados de hambúrguer (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_hamburguer_Codecademy_4/
+
+<h3>Página de pedido de hamburguer personalizado (ecercício Codecademy)</h3>
+https://williansozz.github.io/Create_a_burguer_Codecademy_9/
 
 <h3>Projeto de typografia sobre Marocco (exercício Codecademy)</h3>
 https://williansozz.github.io/Typograpy_Codecademy_6/
