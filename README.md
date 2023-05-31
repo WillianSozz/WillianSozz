@@ -27,7 +27,7 @@
 .<h3>Página sobre dados de hambúrguer (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_hamburguer_Codecademy_4/
 
-<h3>Página de pedido de hamburguer personalizado (ecercício Codecademy)</h3>
+<h3>Página de pedido de hamburguer personalizado (exercício Codecademy)</h3>
 https://williansozz.github.io/Create_a_burguer_Codecademy_9/
 
 <h3>Projeto de typografia sobre Marocco (exercício Codecademy)</h3>
