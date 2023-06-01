@@ -26,6 +26,9 @@
 
 👨‍💻<h3>Site fake PCZADA</h3>
 https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
+
+<h3>Página de pesquisa sobre sports (exercício Codecademy)<h3>
+https://williansozz.github.io/Question_sports_Codecademy_11/
   
 <h3>Página sobre dados de hambúrguer (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_hamburguer_Codecademy_4/
