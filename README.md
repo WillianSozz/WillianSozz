@@ -24,7 +24,10 @@
 
 💬<h2>Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:</h2>
 
-.<h3>Página sobre dados de hambúrguer (exercício Codecademy)</h3>
+<h3>Site fake PCZADA<h3>
+https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
+  
+<h3>Página sobre dados de hambúrguer (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_hamburguer_Codecademy_4/
 
 <h3>Página de pedido de hamburguer personalizado (exercício Codecademy)</h3>
