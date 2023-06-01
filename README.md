@@ -27,6 +27,9 @@
 👨‍💻<h3>Site fake PCZADA</h3>
 https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
 
+<h3>Página Sobre a experiencia de um aventureiro (exercício Codecademy)</h3>
+https://williansozz.github.io/Experience_the_summit_Codecaademy_12/#
+  
 <h3>Página de pesquisa sobre sports (exercício Codecademy)</h3>
 https://williansozz.github.io/Question_sports_Codecademy_11/
   
