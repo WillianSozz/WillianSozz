@@ -51,13 +51,13 @@ https://williansozz.github.io/capa_curso_codenamy_3/
 <h3>HTML, CSS: Projeto loja de tintas (exercício Codecademy)</h3>
 https://www.codecademy.com/workspaces/6475f7f4b92721d3a7a62a0b
 
-<h3>Página de receita (exercício Codecademy)</h3>
+<h3>HTML, CSS: Página de receita (exercício Codecademy)</h3>
 https://williansozz.github.io/Pagina_de_receitas_Codecademy_5/
 
-<h3>Projeto Copiar Website (exercício Codecademy)</h3>
+<h3>HTML, CSS: Projeto Copiar Website (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_copia_Codecademy_1/
 
-<h3>Projeto básico portifólio (exercício Codecademy)</h3>
+<h3>HTML, CSS: Projeto básico portifólio (exercício Codecademy)</h3>
 https://williansozz.github.io/Portifolio_basico_codecademy_2/
 
 
