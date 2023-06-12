@@ -24,28 +24,31 @@
 
 💬<h2>Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:</h2>
 
-👨‍💻<h3>Site fake PCZADA</h3>
+👨‍💻<h3>HTML, CSS: Site fake Faculdade Studeo</h3>
+https://williansozz.github.io/Site_Faculdade_Codecademy_13/
+
+<h3>HTML, CSS: Site fake PCZADA</h3>
 https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
 
-<h3>Página Sobre a experiencia de um aventureiro (exercício Codecademy)</h3>
+<h3>HTML, CSS: Página Sobre a experiencia de um aventureiro (exercício Codecademy)</h3>
 https://williansozz.github.io/Experience_the_summit_Codecaademy_12/#
   
-<h3>Página de pesquisa sobre sports (exercício Codecademy)</h3>
+<h3>HTML, CSS: Página de pesquisa sobre sports (exercício Codecademy)</h3>
 https://williansozz.github.io/Question_sports_Codecademy_11/
   
-<h3>Página sobre dados de hambúrguer (exercício Codecademy)</h3>
+<h3>HTML, CSS: Página sobre dados de hambúrguer (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_hamburguer_Codecademy_4/
 
-<h3>Página de pedido de hamburguer personalizado (exercício Codecademy)</h3>
+<h3>HTML, CSS: Página de pedido de hamburguer personalizado (exercício Codecademy)</h3>
 https://williansozz.github.io/Create_a_burguer_Codecademy_9/
 
-<h3>Projeto de typografia sobre Marocco (exercício Codecademy)</h3>
+<h3>HTML, CSS: Projeto de typografia sobre Marocco (exercício Codecademy)</h3>
 https://williansozz.github.io/Typograpy_Codecademy_6/
 
-<h3>Projeto capa de site de dev. (exercício Codecademy)</h3>
+<h3>HTML, CSS: Projeto capa de site de dev. (exercício Codecademy)</h3>
 https://williansozz.github.io/capa_curso_codenamy_3/
 
-<h3>Projeto loja de tintas (exercício Codecademy)</h3>
+<h3>HTML, CSS: Projeto loja de tintas (exercício Codecademy)</h3>
 https://www.codecademy.com/workspaces/6475f7f4b92721d3a7a62a0b
 
 <h3>Página de receita (exercício Codecademy)</h3>
