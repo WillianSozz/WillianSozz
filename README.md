@@ -30,6 +30,9 @@ https://williansozz.github.io/Site_Faculdade_Codecademy_13/
 <h3>HTML, CSS: Site fake PCZADA</h3>
 https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
 
+<h3>HTML, CSS: Página sobre Jared Morgan (exercício Codecademy)</h3>
+https://williansozz.github.io/Jorney_Codecademy_14/
+
 <h3>HTML, CSS: Página Sobre a experiencia de um aventureiro (exercício Codecademy)</h3>
 https://williansozz.github.io/Experience_the_summit_Codecaademy_12/#
   
