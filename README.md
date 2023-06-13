@@ -24,7 +24,7 @@
 
 💬<h2>Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:</h2>
 
-👨‍💻<h3>HTML, CSS: Site fake Faculdade Studeo</h3>
+👨‍💻<h3>HTML, CSS: Site fake Faculdade Studeo. Obs: clique em "ENTRAR"</h3>
 https://williansozz.github.io/Site_Faculdade_Codecademy_13/
 
 <h3>HTML, CSS: Site fake PCZADA</h3>
