@@ -30,6 +30,9 @@ https://williansozz.github.io/Site_Faculdade_Codecademy_13/
 <h3>HTML, CSS: Site fake PCZADA</h3>
 https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
 
+<h3>HTML, CSS: Layout usando flexbox (exercício Codecademy)</h3>
+https://williansozz.github.io/layout-usando-flexbox-codecademy-16/
+
 <h3>HTML, CSS: Página sobre o filme "Get Out" (exercício Codecademy)</h3>
 https://williansozz.github.io/Comentarios-do-filme-get-out-codecademy-15/
 
