@@ -30,6 +30,9 @@ https://williansozz.github.io/Site_Faculdade_Codecademy_13/
 <h3>HTML, CSS: Site fake PCZADA</h3>
 https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
 
+<h3>HTML, CSS: Layout usando flexbox 2 (exercício Codecademy)</h3>
+https://williansozz.github.io/Layout-with-flebox-2-codecademy-17/
+
 <h3>HTML, CSS: Layout usando flexbox (exercício Codecademy)</h3>
 https://williansozz.github.io/layout-usando-flexbox-codecademy-16/
 
