@@ -24,11 +24,14 @@
 
 💬<h2>Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:</h2>
 
-👨‍💻<h3>HTML, CSS: Site fake Faculdade Studeo. Obs: clique em "ENTRAR"</h3>
+👨‍💻<h3>HTML, CSS: Site fake PCZADA</h3>
+https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
+
+<h3>HTML, CSS: Site fake Faculdade Studeo. Obs: clique em "ENTRAR"</h3>
 https://williansozz.github.io/Site_Faculdade_Codecademy_13/
 
-<h3>HTML, CSS: Site fake PCZADA</h3>
-https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
+<h3>HTML, CSS: Site fake Tea Cozy (exercício Codecademy)</h3>
+https://williansozz.github.io/Tea-cozy-Codecademy-18/
 
 <h3>HTML, CSS: Layout usando flexbox 2 (exercício Codecademy)</h3>
 https://williansozz.github.io/Layout-with-flebox-2-codecademy-17/
