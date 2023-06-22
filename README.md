@@ -63,7 +63,7 @@ https://williansozz.github.io/Create_a_burguer_Codecademy_9/
 <h3>25/05/2023 HTML, CSS: Projeto de typografia sobre Marocco (exercício Codecademy)</h3>
 https://williansozz.github.io/Typograpy_Codecademy_6/
 
-<h3>HTML, CSS: Projeto capa de site de dev. (exercício Codecademy)</h3>
+<h3>20/05/2023 HTML, CSS: Projeto capa de site de dev. (exercício Codecademy)</h3>
 https://williansozz.github.io/capa_curso_codenamy_3/
 
 <h3>16/05/2023HTML, CSS: Projeto loja de tintas (exercício Codecademy)</h3>
