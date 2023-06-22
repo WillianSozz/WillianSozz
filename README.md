@@ -24,58 +24,58 @@
 
 💬<h2>Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:</h2>
 
-👨‍💻<h3>HTML, CSS: Site fake PCZADA</h3>
-https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
-
-<h3>HTML, CSS: Site fake Faculdade Studeo. Obs: clique em "ENTRAR"</h3>
-https://williansozz.github.io/Site_Faculdade_Codecademy_13/
-
-<h3>HTML, CSS: Site fake Tea Cozy (exercício Codecademy)</h3>
-https://williansozz.github.io/Tea-cozy-Codecademy-18/
-
-<h3>HTML, CSS: Site página petshop (exercício Codecademy)</h3>
+👨‍💻<h3>22/06/2023 HTML, CSS: Site página petshop (exercício Codecademy)</h3>
 https://williansozz.github.io/Pagina-petshop-Codecademy-20/
 
-<h3>HTML, CSS: Layout usando flexbox 2 (exercício Codecademy)</h3>
+<h3>20/05/2023 HTML, CSS: Site fake PCZADA</h3>
+https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
+
+<h3>19/05/2023 HTML, CSS: Site fake Faculdade Studeo. Obs: clique em "ENTRAR"</h3>
+https://williansozz.github.io/Site_Faculdade_Codecademy_13/
+
+<h3>18/05/2023 HTML, CSS: Site fake Tea Cozy (exercício Codecademy)</h3>
+https://williansozz.github.io/Tea-cozy-Codecademy-18/
+
+<h3>16/05/2023HTML, CSS: Layout usando flexbox 2 (exercício Codecademy)</h3>
 https://williansozz.github.io/Layout-with-flebox-2-codecademy-17/
 
-<h3>HTML, CSS: Layout usando flexbox (exercício Codecademy)</h3>
+<h3>14/05/2023 HTML, CSS: Layout usando flexbox (exercício Codecademy)</h3>
 https://williansozz.github.io/layout-usando-flexbox-codecademy-16/
 
-<h3>HTML, CSS: Página sobre o filme "Get Out" (exercício Codecademy)</h3>
+<h3>13/05/2023 HTML, CSS: Página sobre o filme "Get Out" (exercício Codecademy)</h3>
 https://williansozz.github.io/Comentarios-do-filme-get-out-codecademy-15/
 
-<h3>HTML, CSS: Página sobre Jared Morgan (exercício Codecademy)</h3>
+<h3>11/06/2023 HTML, CSS: Página sobre Jared Morgan (exercício Codecademy)</h3>
 https://williansozz.github.io/Jorney_Codecademy_14/
 
-<h3>HTML, CSS: Página Sobre a experiencia de um aventureiro (exercício Codecademy)</h3>
+<h3>07/05/2023 HTML, CSS: Página Sobre a experiencia de um aventureiro (exercício Codecademy)</h3>
 https://williansozz.github.io/Experience_the_summit_Codecaademy_12/#
   
-<h3>HTML, CSS: Página de pesquisa sobre sports (exercício Codecademy)</h3>
+<h3>05/06/2023 HTML, CSS: Página de pesquisa sobre sports (exercício Codecademy)</h3>
 https://williansozz.github.io/Question_sports_Codecademy_11/
   
-<h3>HTML, CSS: Página sobre dados de hambúrguer (exercício Codecademy)</h3>
+<h3>01/06/2023 HTML, CSS: Página sobre dados de hambúrguer (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_hamburguer_Codecademy_4/
 
-<h3>HTML, CSS: Página de pedido de hamburguer personalizado (exercício Codecademy)</h3>
+<h3>29/05/2023 HTML, CSS: Página de pedido de hamburguer personalizado (exercício Codecademy)</h3>
 https://williansozz.github.io/Create_a_burguer_Codecademy_9/
 
-<h3>HTML, CSS: Projeto de typografia sobre Marocco (exercício Codecademy)</h3>
+<h3>25/05/2023 HTML, CSS: Projeto de typografia sobre Marocco (exercício Codecademy)</h3>
 https://williansozz.github.io/Typograpy_Codecademy_6/
 
 <h3>HTML, CSS: Projeto capa de site de dev. (exercício Codecademy)</h3>
 https://williansozz.github.io/capa_curso_codenamy_3/
 
-<h3>HTML, CSS: Projeto loja de tintas (exercício Codecademy)</h3>
+<h3>16/05/2023HTML, CSS: Projeto loja de tintas (exercício Codecademy)</h3>
 https://www.codecademy.com/workspaces/6475f7f4b92721d3a7a62a0b
 
-<h3>HTML, CSS: Página de receita (exercício Codecademy)</h3>
+<h3>14/05/2023 HTML, CSS: Página de receita (exercício Codecademy)</h3>
 https://williansozz.github.io/Pagina_de_receitas_Codecademy_5/
 
-<h3>HTML, CSS: Projeto Copiar Website (exercício Codecademy)</h3>
+<h3>12/05/2023 HTML, CSS: Projeto Copiar Website (exercício Codecademy)</h3>
 https://williansozz.github.io/Site_copia_Codecademy_1/
 
-<h3>HTML, CSS: Projeto básico portifólio (exercício Codecademy)</h3>
+<h3>10/05/2023 HTML, CSS: Projeto básico portifólio (exercício Codecademy)</h3>
 https://williansozz.github.io/Portifolio_basico_codecademy_2/
 
 <p>  </p>
