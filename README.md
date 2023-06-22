@@ -30,9 +30,6 @@ https://williansozz.github.io/Pagina-petshop-Codecademy-20/
 <h3>20/05/2023 HTML, CSS: Site fake PCZADA</h3>
 https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/
 
-<h3>19/05/2023 HTML, CSS: Site fake Faculdade Studeo. Obs: clique em "ENTRAR"</h3>
-https://williansozz.github.io/Site_Faculdade_Codecademy_13/
-
 <h3>18/05/2023 HTML, CSS: Site fake Tea Cozy (exercício Codecademy)</h3>
 https://williansozz.github.io/Tea-cozy-Codecademy-18/
 
