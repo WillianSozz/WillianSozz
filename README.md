@@ -28,7 +28,7 @@
 https://www.codecademy.com/workspaces/64a721812f13e43eba300e60
 
 <h3>01/07/2023 JavaScript: A bola 8 Mágica, que responde qualquer pergunta! (exercício Codecademy)</h3>
-https://www.codecademy.com/workspaces/64a73bfcb7b9b70eb44488a5
+https://www.codecademy.com/workspaces/64a73c9a2f13e43eba3024af
 
 <h3>22/06/2023 HTML, CSS: Site página petshop (exercício Codecademy)</h3>
 https://williansozz.github.io/Pagina-petshop-Codecademy-20/
