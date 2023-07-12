@@ -25,7 +25,7 @@
 💬<h2>Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:</h2>
 
 👨‍💻<h3>06/07/2023 JavaScript: Jogo de pedra, papel e tesoura (exercício Codecademy)</h3>
-https://www.codecademy.com/workspaces/64a721812f13e43eba300e60
+https://github.com/WillianSozz/pedra-papel-e-tesoura-em-JS.git
 
 <h3>01/07/2023 JavaScript: A bola 8 Mágica, que responde qualquer pergunta! (exercício Codecademy)</h3>
 https://www.codecademy.com/workspaces/64a73c9a2f13e43eba3024af
