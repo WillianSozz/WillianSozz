@@ -5,7 +5,7 @@
 
 - 🌱 Tenho outros cursos como **Word, Excel, Digitação, Windows (todos básicos)**
 
-- 👯 Estou cursando programação na área de engenharia Front-end [Curso Codecademy](https://www.codecademy.com/learn)
+- 👯 Estou cursando programação na área de engenharia Front-end
 
 - 🤝 Também curso inglês [Curso Wizard](https://me.wizard.com.br/)
 
