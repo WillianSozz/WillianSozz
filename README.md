@@ -32,12 +32,6 @@ https://williansozz.github.io/calculadora-js/
 
 <h2>Projetos simples:</h2>
 
-<h3>06/07/2023 JavaScript: Jogo de pedra, papel e tesoura (exercício Codecademy)</h3>
-https://github.com/WillianSozz/pedra-papel-e-tesoura-em-JS.git
-
-<h3>01/07/2023 JavaScript: A bola 8 Mágica, que responde qualquer pergunta! (exercício Codecademy)</h3>
-https://github.com/WillianSozz/bola-magica-8.git
-
 <h3>22/06/2023 HTML, CSS: Site página petshop (exercício Codecademy)</h3>
 https://williansozz.github.io/Pagina-petshop-Codecademy-20/
 
