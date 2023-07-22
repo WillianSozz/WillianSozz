@@ -27,6 +27,9 @@
 
 <h2>Projetos completos usando JavaScript, Html, Css:</h2>
 
+<h3>22/07/2023 Simulado Detrana sobre via Urbana </h3>
+https://williansozz.github.io/detrana-simulador/
+
 <h3>13/07/2023 Calculadora Simples </h3>
 https://williansozz.github.io/calculadora-js/
 
