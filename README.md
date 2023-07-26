@@ -27,7 +27,10 @@
 
 <h2>Projetos completos usando JavaScript, Html, Css:</h2>
 
-<h3>26/07/2023 Projeto hora do dia (Muda fundo, imagem dependendo da hora do dia)</h3>
+<h3>26/07/2023 Verificação de idade</h3>
+https://williansozz.github.io/verificador-de-idade/
+
+<h3>26/07/2023 Hora do dia (Muda fundo, imagem dependendo da hora do dia)</h3>
 https://williansozz.github.io/hora-do-dia-project/
 
 <h3>22/07/2023 Simulado Detrana sobre via Urbana </h3>
