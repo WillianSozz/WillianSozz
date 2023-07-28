@@ -27,6 +27,9 @@
 
 <h2>Projetos completos usando JavaScript, Html, Css:</h2>
 
+<h3>28/07/2023 Super Contador</h3>
+https://williansozz.github.io/super-contador/
+
 <h3>26/07/2023 Verificação de idade</h3>
 https://williansozz.github.io/verificador-de-idade/
 
