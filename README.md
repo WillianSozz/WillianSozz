@@ -27,6 +27,9 @@
 
 <h2>Projetos completos usando JavaScript, Html, Css:</h2>
 
+<h3>29/07/2023 Super Tabuada</h3>
+https://williansozz.github.io/Super-tabuada/
+
 <h3>28/07/2023 Super Contador</h3>
 https://williansozz.github.io/super-contador/
 
