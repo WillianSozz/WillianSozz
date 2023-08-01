@@ -27,6 +27,9 @@
 
 <h2>Projetos completos usando JavaScript, Html, Css:</h2>
 
+<h3>01/08/2023 Analisador de números</h3>
+https://williansozz.github.io/analisadordenumeros/
+
 <h3>29/07/2023 Super Tabuada</h3>
 https://williansozz.github.io/Super-tabuada/
 
@@ -45,6 +48,7 @@ https://williansozz.github.io/detrana-simulador/
 <h3>13/07/2023 Calculadora Simples </h3>
 https://williansozz.github.io/calculadora-js/
 
+<hr>
 <h2>Projetos simples:</h2>
 
 <h3>22/06/2023 HTML, CSS: Site página petshop (exercício Codecademy)</h3>
