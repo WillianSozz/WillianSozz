@@ -27,6 +27,9 @@
 
 <h2>Projetos completos usando JavaScript, Html, Css:</h2>
 
+<h3>03/08/2023 Site fotografia Fake</h3>
+https://williansozz.github.io/site-fotografia-fake
+
 <h3>01/08/2023 Analisador de números</h3>
 https://williansozz.github.io/analisadordenumeros/
 
