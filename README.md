@@ -27,39 +27,28 @@
 
 <h2>Projetos com ReactJs</h2>
 
-<h3>15/08/2023 Relogios em tempo Real Analógico e Digital</h3>
-https://clock-git-main-williansozz.vercel.app/
+- 15/08/2023 [Relogios em tempo Real Analógico e Digital](https://clock-git-main-williansozz.vercel.app/)
 
-<h3>14/08/2023 Contador de CEP</h3>
-https://contadordecep.vercel.app/
+- 14/08/2023 [Contador de CEP](https://contadordecep.vercel.app/)
 
 <h2>Projetos completos usando JavaScript, Html, Css:</h2>
 
-<h3>03/08/2023 Site fotografia Fake</h3>
-https://williansozz.github.io/site-fotografia-fake
+- 03/08/2023 [Site fotografia Fake](https://williansozz.github.io/site-fotografia-fake)
 
-<h3>01/08/2023 Analisador de números</h3>
-https://williansozz.github.io/analisadordenumeros/
+- 01/08/2023 [Analisador de números](https://williansozz.github.io/analisadordenumeros/)
 
-<h3>29/07/2023 Super Tabuada</h3>
-https://williansozz.github.io/Super-tabuada/
+- 29/07/2023 [Super Tabuada](https://williansozz.github.io/Super-tabuada/)
 
-<h3>28/07/2023 Super Contador</h3>
-https://williansozz.github.io/super-contador/
+- 28/07/2023 [Super Contador](https://williansozz.github.io/super-contador/)
 
-<h3>26/07/2023 Verificação de idade</h3>
-https://williansozz.github.io/verificador-de-idade/
+- 26/07/2023 [Verificação de idade](https://williansozz.github.io/verificador-de-idade/)
 
-<h3>26/07/2023 Hora do dia (Muda fundo, imagem dependendo da hora do dia)</h3>
-https://williansozz.github.io/hora-do-dia-project/
+- 26/07/2023 [Hora do dia (Muda fundo, imagem dependendo da hora do dia)](https://williansozz.github.io/hora-do-dia-project/)
 
-<h3>22/07/2023 Simulado Detrana sobre via Urbana </h3>
-https://williansozz.github.io/detrana-simulador/
+- 22/07/2023 [Simulado Detrana sobre via Urbana](https://williansozz.github.io/detrana-simulador/)
 
-<h3>13/07/2023 Calculadora Simples </h3>
-https://williansozz.github.io/calculadora-js/
+- 13/07/2023 [Calculadora Simples](https://williansozz.github.io/calculadora-js/)
 
-<hr>
 <h2>Projetos simples:</h2>
 
 <h3>22/06/2023 HTML, CSS: Site página petshop (exercício Codecademy)</h3>
