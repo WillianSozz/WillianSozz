@@ -25,13 +25,13 @@
 💬<h2>Aqui estão alguns projetos meus, para que acompanhem meu desenvolvimento:</h2>
 👨‍💻 <h3>Obs: clique no nome dos projetos para abri-los<h3> 😊
 
-<h2>Projetos com ReactJs</h2>
+## Projetos com ReactJs:
 
 - 15/08/2023 [Relogios em tempo Real Analógico e Digital](https://clock-git-main-williansozz.vercel.app/)
 
 - 14/08/2023 [Contador de CEP](https://contadordecep.vercel.app/)
 
-<h2>Projetos completos usando JavaScript, Html, Css:</h2>
+## Projetos completos usando JavaScript, Html, Css:
 
 - 03/08/2023 [Site fotografia Fake](https://williansozz.github.io/site-fotografia-fake)
 
@@ -49,7 +49,7 @@
 
 - 13/07/2023 [Calculadora Simples](https://williansozz.github.io/calculadora-js/)
 
-<h2>Projetos simples usando apenas HTML e CSS:</h2>
+## Projetos simples usando apenas HTML e CSS:
 
 - 22/06/2023 [Site página petshop (exercício Codecademy)](https://williansozz.github.io/Pagina-petshop-Codecademy-20/)
 
