@@ -10,7 +10,7 @@
 
 - 🤝 Também curso inglês [Curso Wizard](https://me.wizard.com.br/)
 
-- 👨‍💻 Meu linkedln com CV e Certificados é [https://www.linkedin.com/in/willian-soares-da-silva-a71b65272/](https://www.linkedin.com/in/willian-soares-da-silva-a71b65272/)
+- 👨‍💻 Meu linkedln com CV e Certificados é [https://www.linkedin.com/in/williansoares](https://www.linkedin.com/in/willianssoares)
 
 - 💬 Telefone de contato **37998096535**
 
