@@ -54,35 +54,13 @@
 
 - 22/06/2023 [Site página petshop (exercício Codecademy)](https://williansozz.github.io/Pagina-petshop-Codecademy-20/)
 
-- 20/05/2023 [Site fake PCZADA](https://williansozz.github.io/Site_pc_PCZADA_Codecademy_10/)
-
-- 18/05/2023 [Site fake Tea Cozy (exercício Codecademy)](https://williansozz.github.io/Tea-cozy-Codecademy-18/)
-
-- 16/05/2023 [Layout usando flexbox 2 (exercício Codecademy)](https://williansozz.github.io/Layout-with-flebox-2-codecademy-17/)
-
-- 14/05/2023 [Layout usando flexbox (exercício Codecademy)](https://williansozz.github.io/layout-usando-flexbox-codecademy-16/)
-
-- 13/05/2023 [Página sobre o filme "Get Out" (exercício Codecademy)](https://williansozz.github.io/Comentarios-do-filme-get-out-codecademy-15/)
-
 - 11/06/2023 [Página sobre Jared Morgan (exercício Codecademy)](https://williansozz.github.io/Jorney_Codecademy_14/)
 
 - 07/05/2023 [Página Sobre a experiencia de um aventureiro (exercício Codecademy)](https://williansozz.github.io/Experience_the_summit_Codecaademy_12/#)
   
-- 05/06/2023 [Página de pesquisa sobre sports (exercício Codecademy)](https://williansozz.github.io/Question_sports_Codecademy_11/)
-  
-- 01/06/2023 [Página sobre dados de hambúrguer (exercício Codecademy)](https://williansozz.github.io/Site_hamburguer_Codecademy_4/)
-
-- 29/05/2023 [Página de pedido de hamburguer personalizado (exercício Codecademy)](https://williansozz.github.io/Create_a_burguer_Codecademy_9/)
-
 - 25/05/2023 [Projeto de typografia sobre Marocco (exercício Codecademy)](https://williansozz.github.io/Typograpy_Codecademy_6/)
 
-- 20/05/2023 [Projeto capa de site de dev. (exercício Codecademy)](https://williansozz.github.io/capa_curso_codenamy_3/)
 
-- 14/05/2023 [Página de receita (exercício Codecademy)](https://williansozz.github.io/Pagina_de_receitas_Codecademy_5/)
-
-- 12/05/2023 [Projeto Copiar Website (exercício Codecademy)](https://williansozz.github.io/Site_copia_Codecademy_1/)
-
-- 10/05/2023 [Projeto básico portifólio (exercício Codecademy)](https://williansozz.github.io/Portifolio_basico_codecademy_2/)
 
 
 <p>  </p>
