@@ -28,6 +28,8 @@
 
 ## Projetos com ReactJs:
 
+- 01/09/2023 [Pokedex Incrível com +500 Pokemons!](https://poke-api-two-mu.vercel.app)
+
 - 15/08/2023 [Relogios em tempo Real Analógico e Digital](https://clock-git-main-williansozz.vercel.app/)
 
 - 14/08/2023 [Contador de CEP](https://contadordecep.vercel.app/)
