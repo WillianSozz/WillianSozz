@@ -36,6 +36,8 @@
 
 ## Projetos completos usando JavaScript, Html, Css:
 
+- 05/09/2023 [Veja o Clima](https://williansozz.github.io/veja-o-clima/)
+
 - 03/08/2023 [Site fotografia Fake](https://williansozz.github.io/site-fotografia-fake)
 
 - 01/08/2023 [Analisador de números](https://williansozz.github.io/analisadordenumeros/)
