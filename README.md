@@ -28,9 +28,11 @@
 
 ## Projetos com ReactJs:
 
+- 10/09/2023 [Biscoito da Sorte](https://biscoito-da-sorte-delta-lovat.vercel.app/)
+
 - 01/09/2023 [Pokedex Incrível com +500 Pokemons!](https://poke-api-two-mu.vercel.app)
 
-- 22/09/2023 [Cronometro simples](https://cronometro-khaki.vercel.app/)
+- 22/08/2023 [Cronometro simples](https://cronometro-khaki.vercel.app/)
 
 - 15/08/2023 [Relogios em tempo Real Analógico e Digital](https://clock-git-main-williansozz.vercel.app/)
 
