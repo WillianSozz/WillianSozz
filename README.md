@@ -28,6 +28,8 @@
 
 ## Projetos com ReactJs:
 
+- 19/09/2023 [Controle Financeiro](https://controlefinanceiro-jet.vercel.app/)
+
 - 10/09/2023 [Biscoito da Sorte](https://biscoito-da-sorte-delta-lovat.vercel.app/)
 
 - 01/09/2023 [Pokedex Incrível com +500 Pokemons!](https://poke-api-two-mu.vercel.app)
