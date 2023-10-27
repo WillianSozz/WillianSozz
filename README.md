@@ -28,6 +28,8 @@
 
 ## Projetos com ReactJs:
 
+- 27/10/2023 [Calculadora de IMC](https://williansozz.github.io/calc-IMC/)
+
 - 19/09/2023 [Controle Financeiro](https://controlefinanceiro-jet.vercel.app/)
 
 - 10/09/2023 [Biscoito da Sorte](https://biscoito-da-sorte-delta-lovat.vercel.app/)
