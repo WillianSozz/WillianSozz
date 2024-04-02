@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Willian Soares</h1>
-<h3 align="center">Estudo focado em Engenheiro Front-end</h3>
+<h3 align="center">Estudo focado em Front-end e Back-end</h3>
 <h3 align="left">Connect with me:</h3>
 
 - 🔭 Atualmente faço faculdade de Ads(Analise e Desenvolvimento de Sistemas) [Faculdade Unicesumar](https://studeo.unicesumar.edu.br/#!/access/login)
@@ -7,8 +7,6 @@
 - 🌱 Tenho outros cursos como **Word, Excel, Digitação, Windows (todos básicos)**
 
 - 👯 Estou cursando programação na área de engenharia Front-end
-
-- 🤝 Também curso inglês [Curso Wizard](https://me.wizard.com.br/)
 
 - 👨‍💻 Meu linkedln com CV e Certificados é [https://www.linkedin.com/in/williansoares](https://www.linkedin.com/in/willianssoares)
 
