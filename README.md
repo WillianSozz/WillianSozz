@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Willian Soares</h1>
-<h3 align="center">Estudo focado em Front-end e Back-end</h3>
+<h3 align="center">Estudo focado em Programaçao Full Stack</h3>
 <h3 align="left">Connect with me:</h3>
 
 - 🔭 Atualmente faço faculdade de Ads(Analise e Desenvolvimento de Sistemas) [Faculdade Unicesumar](https://studeo.unicesumar.edu.br/#!/access/login)
@@ -23,6 +23,10 @@
 
 <h2>Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvimento:</h2>
 <h3>Obs: clique no nome dos projetos para abri-los<h3>
+
+## Projetos com HTML, CSS, PHP:
+
+- 08/05/2024 [CRUD Cadastro de clientes](https://www.linkedin.com/feed/update/urn:li:activity:7194035681784975360)
 
 ## Projetos com ReactJs:
 
