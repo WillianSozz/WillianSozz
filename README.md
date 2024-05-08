@@ -6,7 +6,7 @@
 
 - 🌱 Tenho outros cursos como **Word, Excel, Digitação, Windows (todos básicos)**
 
-- 👯 Estou cursando programação na área de engenharia Front-end
+- 👯 Estou cursando programação na área de engenharia Full Stack
 
 - 👨‍💻 Meu linkedln com CV e Certificados é [https://www.linkedin.com/in/williansoares](https://www.linkedin.com/in/willianssoares)
 
