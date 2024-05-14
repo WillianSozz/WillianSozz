@@ -44,6 +44,8 @@
 
 ## Projetos completos usando JavaScript, Html, Css:
 
+- 14/05/2024 [Conversor de medidas simples](https://williansozz.github.io/Conversor-simples)
+
 - 27/10/2023 [Calculadora de IMC](https://williansozz.github.io/calc-IMC/)
 
 - 05/09/2023 [Veja o Clima](https://williansozz.github.io/veja-o-clima/)
