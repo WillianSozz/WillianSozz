@@ -24,6 +24,10 @@
 <h2>Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvimento:</h2>
 <h3>Obs: clique no nome dos projetos para abri-los<h3>
 
+## Projetos com Python:
+
+- 03/06/2024 [Jogo - Acenda as lâmpadas](https://www.linkedin.com/feed/update/urn:li:activity:7203720765232300033/)
+
 ## Projetos com HTML, CSS, PHP:
 
 - 08/05/2024 [CRUD Cadastro de clientes](https://www.linkedin.com/feed/update/urn:li:activity:7194035681784975360)
