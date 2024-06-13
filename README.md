@@ -48,6 +48,8 @@
 
 ## Projetos completos usando JavaScript, Html, Css:
 
+- 13/06/2024 [Calculadora de Churrasco](https://williansozz.github.io/Calculadora-de-churrasco/)
+
 - 14/05/2024 [Conversor de medidas simples](https://williansozz.github.io/Conversor-simples)
 
 - 27/10/2023 [Calculadora de IMC](https://williansozz.github.io/calc-IMC/)
