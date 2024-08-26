@@ -52,6 +52,8 @@ Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvime
 
 ## Projetos completos usando JavaScript, Html, Css:
 
+- 26/08/2024 [Passagens aereas](https://williansozz.github.io/passagens-aereas/)
+
 - 13/06/2024 [Calculadora de Churrasco](https://williansozz.github.io/Calculadora-de-churrasco/)
 
 - 14/05/2024 [Conversor de medidas simples](https://williansozz.github.io/Conversor-simples)
