@@ -52,7 +52,7 @@ Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvime
 
 ## Projetos completos usando JavaScript, Html, Css:
 
-- 04/12/2024 [Gerenciador de tarefas](https://github.com/WillianSozz/Gerenciador-de-tarefas)
+- 04/12/2024 [Gerenciador de tarefas](https://williansozz.github.io/Gerenciador-de-tarefas/)
 
 - 26/08/2024 [Passagens aereas](https://williansozz.github.io/passagens-aereas/)
 
