@@ -52,6 +52,8 @@ Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvime
 
 ## Projetos completos usando JavaScript, Html, Css:
 
+- 04/12/2024 [Gerenciador de tarefas](https://github.com/WillianSozz/Gerenciador-de-tarefas)
+
 - 26/08/2024 [Passagens aereas](https://williansozz.github.io/passagens-aereas/)
 
 - 13/06/2024 [Calculadora de Churrasco](https://williansozz.github.io/Calculadora-de-churrasco/)
