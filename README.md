@@ -31,6 +31,7 @@ Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvime
 ## Projetos com Python:
 
 - 03/06/2024 [Jogo - Acenda as lâmpadas](https://www.linkedin.com/feed/update/urn:li:activity:7203720765232300033/)
+- 22/04/2025 [CONSULTANDO BANCO DE DADOS E RETORNANDO EM UMA PLANILHA DO EXCEL](https://www.linkedin.com/feed/update/urn:li:activity:7320497688691531776/)
 
 ## Projetos com HTML, CSS, PHP:
 
