@@ -10,8 +10,6 @@
 
 - 👨‍💻 Meu linkedln com CV e Certificados é [https://www.linkedin.com/in/williansoares](https://www.linkedin.com/in/willianssoares)
 
-- 💬 Telefone de contato **37998096535**
-
 - 📫 Meu e-mail é **williansozz.profissional@gmail.com**
 
 
