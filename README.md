@@ -22,6 +22,10 @@
 Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvimento:
 ## Obs: clique no nome dos projetos para abri-los
 
+## Projetos com LAZARUS
+
+-27/05/2025 [Projeto iniciante somando](https://github.com/WillianSozz/SomandoPascal/raw/refs/heads/main/SOMANDO.exe)
+
 ## Projetos com Unity Games
 
 - 20/07/2024 [Jogo Dondim o Porquinho](https://drive.google.com/file/d/17EwFWGOg3CvxD6D9eJ-8mFTB4U19DDrw/view?usp=sharing)
