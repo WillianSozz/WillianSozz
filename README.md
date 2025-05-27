@@ -24,7 +24,7 @@ Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvime
 
 ## Projetos com LAZARUS
 
--27/05/2025 [Projeto iniciante somando](https://github.com/WillianSozz/SomandoPascal/raw/refs/heads/main/SOMANDO.exe)
+- 27/05/2025 [Projeto iniciante somando](https://github.com/WillianSozz/SomandoPascal/raw/refs/heads/main/SOMANDO.exe)
 
 ## Projetos com Unity Games
 
