@@ -24,6 +24,7 @@ Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvime
 
 ## Projetos com LAZARUS
 
+- 29/05/2025 [Projeto par ou impar](https://github.com/WillianSozz/Teste-do-PAR-IMPAR/raw/refs/heads/main/ParOuImpar.exe)
 - 27/05/2025 [Projeto iniciante somando](https://github.com/WillianSozz/SomandoPascal/raw/refs/heads/main/SOMANDO.exe)
 
 ## Projetos com Unity Games
