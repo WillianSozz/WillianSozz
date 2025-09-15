@@ -22,6 +22,10 @@
 Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvimento:
 ## Obs: clique no nome dos projetos para abri-los
 
+## Projetos com JAVA
+
+-15/09/2025 [Calculadora com JAVA](https://www.linkedin.com/posts/willianssoares_java-programaaexaeto-aprendizado-activity-7372102420828545025-LetS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEK8MbUB52TaO6W_CX-GgpSu_PUImWCFdIo)
+
 ## Projetos com LAZARUS
 
 - 29/05/2025 [Conversor de Temperatura](https://github.com/WillianSozz/Conversor-de-Celsius-para-Fah/raw/refs/heads/main/conversor%20de%20temp.exe)
