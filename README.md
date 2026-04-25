@@ -6,7 +6,7 @@
 
 - 🌱 Tenho outros cursos como **Word, Excel, Digitação, Windows (todos básicos)**
 
-- 👯 Trabalho atualmente na OPCAO SISTEMAS
+- 👯 Trabalho atualmente na OPCAO SISTEMAS como suporte N2
 
 - 👨‍💻 Meu linkedln com CV e Certificados é [https://www.linkedin.com/in/williansoares](https://www.linkedin.com/in/willianssoares)
 
