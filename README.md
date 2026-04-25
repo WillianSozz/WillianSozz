@@ -24,9 +24,10 @@ Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvime
 
 ## Projetos com Python:
 
+- 25/04/2026 [Jogo de adivinhar o numero](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453850716391063552/)
 - 03/06/2024 [Jogo - Acenda as lâmpadas](https://www.linkedin.com/feed/update/urn:li:activity:7203720765232300033/)
 - 22/04/2025 [CONSULTANDO BANCO DE DADOS E RETORNANDO EM UMA PLANILHA DO EXCEL](https://www.linkedin.com/feed/update/urn:li:activity:7320497688691531776/)
-
+  
 ## Projetos com JAVA
 
 -15/09/2025 [Calculadora com JAVA](https://www.linkedin.com/posts/willianssoares_java-programaaexaeto-aprendizado-activity-7372102420828545025-LetS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEK8MbUB52TaO6W_CX-GgpSu_PUImWCFdIo)
