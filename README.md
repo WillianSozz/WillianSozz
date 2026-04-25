@@ -2,9 +2,9 @@
 <h3 align="center">DEV JR em Backend</h3>
 <h3 align="left">Connect with me:</h3>
 
-- 🔭 Atualmente faço faculdade de Ads(Analise e Desenvolvimento de Sistemas) [Faculdade Unicesumar](https://studeo.unicesumar.edu.br/#!/access/login)
+- 🔭 Formado em Analise e Desenvolvimento de Sistemas [Faculdade Unicesumar](https://studeo.unicesumar.edu.br/#!/access/login)
 
-- 🌱 Tenho outros cursos como **Word, Excel, Digitação, Windows (todos básicos)**
+- 🌱 Tenho outros cursos como **Word, Excel, Digitação, Windows (todos básicos)**  e tambem **HTML, CSS, JS, Python**
 
 - 👯 Trabalho atualmente na OPCAO SISTEMAS como suporte N2
 
