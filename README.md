@@ -23,6 +23,7 @@ Aqui estão algumas contribuições minhas, para que acompanhem meu desenvolvime
 ## Obs: clique no nome dos projetos para abri-los
 
 ## Projetos com Python:
+- 23/09/2026 [Consultar endereço ou cep](https://github.com/WillianSozz/consultar-cep-pelo-endereco-ou-cep)
 - 22/09/2026 [Abrir icones da barra de tarefas](https://github.com/WillianSozz/Abrir_icone_barra_de_tarefas)
 - 25/04/2026 [Jogo de adivinhar o numero com placar](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453850716391063552/)
 - 03/06/2024 [Jogo - Acenda as lâmpadas](https://www.linkedin.com/feed/update/urn:li:activity:7203720765232300033/)
